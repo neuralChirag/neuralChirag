@@ -68,15 +68,6 @@ Developed responsive and modern frontend interfaces for an e-commerce platform d
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neuralChirag&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuralChirag&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Areas of Interest
 
 - Full-Stack Development
