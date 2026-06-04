@@ -4,7 +4,7 @@
 
 > Building scalable web applications and AI-powered systems, one commit at a time.
 
-I'm a Software Engineer based in Noida, currently pursuing my degree at **GLA University** while working at **Credeau**.
+I'm a Software Engineer based in Agra currently working at **Credeau**.
 
 My primary focus is building scalable backend systems, modern web applications, and integrating AI into real-world products. I enjoy solving complex problems, writing maintainable code, and continuously learning new technologies.
 
@@ -71,8 +71,8 @@ Developed responsive and modern frontend interfaces for an e-commerce platform d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neuralChirag&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuralChirag&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -88,23 +88,11 @@ Developed responsive and modern frontend interfaces for an e-commerce platform d
 
 ---
 
-## 📈 Current Focus
-
-```text
-Building Scalable Products      ██████████████████░░ 90%
-Backend Engineering             ███████████████████░ 95%
-Frontend Development            ████████████████░░░ 80%
-AI Integration                  ███████████████░░░░ 75%
-Learning New Technologies       ████████████████████ 100%
-```
-
----
-
 ## 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: official.chirag373@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://in.linkedin.com/in/chirag-chauhan-340228311
 
 🌐 Portfolio: Coming Soon
 
