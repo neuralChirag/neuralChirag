@@ -85,7 +85,7 @@ Developed responsive and modern frontend interfaces for an e-commerce platform d
 
 💼 LinkedIn: https://in.linkedin.com/in/chirag-chauhan-340228311
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: https://chirag-chauhan.netlify.app/
 
 ---
 
