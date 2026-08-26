@@ -4,7 +4,7 @@
 
 > Building scalable web applications and AI-powered systems, one commit at a time.
 
-I'm a Software Engineer based in Agra currently working at **Credeau**.
+I'm a Software Engineer based in Agra currently Looking for opportunities for the same.
 
 My primary focus is building scalable backend systems, modern web applications, and integrating AI into real-world products. I enjoy solving complex problems, writing maintainable code, and continuously learning new technologies.
 
